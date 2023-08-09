@@ -341,3 +341,7 @@ ASALocalRun/
 *.zip
 *.7z
 ConsoleC2App/Assets/ProjectionServer/Projection Server.exe
+
+# Sonarqube
+.sonarqube/
+SonarQube.xml
